@@ -1,0 +1,3 @@
+api.spacemonkeys.online {
+    reverse_proxy localhost:8000
+}
